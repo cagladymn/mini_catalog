@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "price": 145,
+    "description": "Küçük bir gezegeninden ayrılarak farklı dünyaları keşfeden küçük bir prensin hikâyesi.",
+    "imageAsset": "assets/images/kucukprens.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Suç ve Ceza",
+    "author": "Fyodor Dostoyevski",
+    "category": "Klasikler",
+    "price": 220,
+    "description": "Raskolnikov'un işlediği bir suçun ardından yaşadığı vicdani çatışmayı anlatır.",
+    "imageAsset": "assets/images/sucveceza.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Bilim Kurgu",
+    "price": 175,
+    "description": "Baskıcı bir yönetimin gözetimi altındaki bir toplumda geçen distopik roman.",
+    "imageAsset": "assets/images/1984.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Simyacı",
+    "author": "Paulo Coelho",
+    "category": "Roman",
+    "price": 160,
+    "description": "Kendi hazinesini aramak üzere yolculuğa çıkan Santiago'nun hikâyesi.",
+    "imageAsset": "assets/images/simyaci.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "category": "Klasikler",
+    "price": 130,
+    "description": "Bir çiftlikteki hayvanların başkaldırısı üzerinden iktidarı eleştiren alegorik eser.",
+    "imageAsset": "assets/images/hayvan-ciftligi.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Bilim Kurgu",
+    "price": 280,
+    "description": "Arrakis adlı çöl gezegeninde güç, siyaset ve hayatta kalma mücadelesi.",
+    "imageAsset": "assets/images/dune.jpg"
+  },
+  
+  {
+    "id": 7,
+    "title": "Martin Eden",
+    "author": "Jack London",
+    "category": "Roman",
+    "price": 190,
+    "description": "Martin Eden, yazar olma hayalinin peşinden giden genç bir denizcinin mücadelelerini anlatır.",
+    "imageAsset": "assets/images/martineden.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Aşk ve Gurur",
+    "author": "Jane Austen",
+    "category": "Klasikler",
+    "price": 180,
+    "description": "Elizabeth Bennet ve Bay Darcy arasındaki gurur, önyargı ve aşk üzerine klasik bir roman.",
+    "imageAsset": "assets/images/askvegurur.jpg"
+  }
+
+]
