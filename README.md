@@ -1,17 +1,72 @@
-# mini_catalog
+Mini Katalog — Kitap Kataloğu
 
-A new Flutter project.
+Mini Katalog, Flutter ve Dart kullanılarak geliştirilmiş bir kitap katalog uygulamasıdır. Kullanıcılar kitapları inceleyebilir, arama yapabilir, kategorilere göre filtreleyebilir ve kitapları sepete ekleyebilir.
 
-## Getting Started
+Özellikler
 
-This project is a starting point for a Flutter application.
+-Kitapları görselleriyle listeleme
 
-A few resources to get you started if this is your first Flutter project:
+-Kitap adına ve yazarına göre arama
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+-Kategorilere göre filtreleme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Kitap detaylarını görüntüleme
+
+-Sepete kitap ekleme ve çıkarma
+
+-Sepet toplam tutarını hesaplama
+
+-JSON dosyasından kitap verilerini okuma
+
+-Sayfalar arasında gezinme
+
+
+
+Kullanılan Teknolojiler ve Araçlar
+
+-Flutter: 3.47.7
+
+-Dart: 3.13.5
+
+-Android Studio
+
+-Visual Studio Code
+
+-Material Design
+
+-JSON
+
+Kurulum ve Çalıştırma
+
+Bilgisayarda Flutter SDK kurulu olmalıdır.
+
+git clone https://github.com/cagladymn/mini_catalog.git
+cd mini_catalog
+flutter pub get
+flutter run
+
+Uygulama Android Studio emülatörü üzerinden de çalıştırılabilir.
+
+Ekran Görüntüleri
+### Ana Sayfa
+![Kitap Kataloğu](screenshots/catalog.png)
+
+### Kitap Arama
+![Kitap Arama](screenshots/search.png)
+
+### Klasikler Kategorisi
+![Klasikler](screenshots/classics.png)
+
+### Diğer Ekran
+![Uygulama Ekranı](screenshots/book-detail.png)
+
+### Sepet
+![Sepet Ekranı](screenshots/sepet.png)
+
+Projenin Amacı
+
+Bu proje; Flutter ve Dart ile mobil arayüz geliştirme, JSON verileri kullanma, sayfa yönlendirme ve temel durum yönetimi konularını uygulamak amacıyla hazırlanmıştır.
+
+Geliştirici 
+
+Çağla Adıyaman
